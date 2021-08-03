@@ -1,2 +1,2 @@
 # august-3
-prac
+practice for git
